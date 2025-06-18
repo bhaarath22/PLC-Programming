@@ -1,6 +1,8 @@
-![image](https://github.com/user-attachments/assets/7314d4d3-8362-469c-9cc0-5ee7224efd0b)## Ladder Logic
+## Ladder Logic
 
-**Ladder Logic** is a graphical programming language widely used to program Programmable Logic Controllers (PLCs) for industrial automation and control systems. Its design and visual structure closely resemble traditional electrical relay circuits, making it intuitive for engineers and technicians familiar with electrical schematics.
+**Ladder Logic** is a graphical programming language widely used to program Programmable Logic Controllers (PLCs) for industrial automation and control systems. Its design and visual structure closely resemble traditional electrical relay circuits, making it intuitive for engineers and technicians familiar with electrical schematics.  
+
+![image](Images/LadderLogicDiagram.png) 
 
 ### **Key Features and Structure**
 

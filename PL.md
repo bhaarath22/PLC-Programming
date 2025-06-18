@@ -22,8 +22,7 @@
 - It then executes each rung in sequence, evaluating the logic from left to right.
 - If the conditions on a rung are TRUE, the corresponding output action is performed (such as energizing a coil).
 - After all rungs are evaluated, outputs are updated, and the cycle repeats rapidly, creating real-time control.
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.automationreadypanels.com%2Fplc-hmi%2Fwhat-is-plc-ladder-logic-and-how-does-it-work%2F&psig=AOvVaw28fPHbsQfHDtYJ7tcMt7GO&ust=1750312866589000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCw-del-o0DFQAAAAAdAAAAABAE![Uploading image.png…]()
-
+  
 ### **Why Ladder Logic is Popular**
 
 - **Ease of Learning:** Its similarity to relay logic and electrical schematics makes it accessible for engineers, electricians, and maintenance personnel.
@@ -57,3 +56,6 @@ A simple rung might check if a start button is pressed (XIC) and a stop button i
 [6] https://www.pubnub.com/learn/glossary/ladder-logic/  
 [7] https://www.plctechnician.com/news-blog/basics-ladder-logic  
 [8] https://www.sciencedirect.com/topics/engineering/ladder-logic  
+---
+
+

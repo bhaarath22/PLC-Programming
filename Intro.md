@@ -21,6 +21,8 @@ A typical PLC system consists of the following main components:
 - **Programming Device:** Used to create, edit, and download control programs to the PLC.
 - **Backplane or Rack:** Provides electrical connections and communication between modules in modular PLC systems.
 
+![image](https://github.com/bhaarath22/PLC-Programming/blob/2bd1e5bf5c81dea84a8cd68996fe199fceb29289/Images/PLC%20Block%20Diagram.png)
+
 ### **How Does a PLC Work?**
 
 The operation of a PLC follows a repetitive cycle, typically consisting of these steps:
